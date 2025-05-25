@@ -43,6 +43,30 @@ This repository contains table/image that accompany our survey on the evolution 
 * **Benchmark Usage Frequency:** ![Benchmark Figure](figures/bench_freq.png)
 [bench_freq.pdf](https://github.com/user-attachments/files/20430206/bench_freq.pdf)
 
+### 4.2 Requirement Engineering & Documentation
+
+* **LLM vs Agent Comparison:** ![REQ-Compare Figure](figures/req_compare.png)
+  [req_compare.pdf](figures/req_compare.pdf)
+
+### 4.3 Code Generation & Software Development
+
+* **LLM vs Agent Comparison:** ![CODE-Compare Figure](figures/code_compare.png)
+  [code_compare.pdf](figures/code_compare.pdf)
+
+### 4.4 Autonomous Learning & Decision Making
+
+* **LLM vs Agent Comparison:** ![AUTO-Compare Figure](figures/auto_compare.png)
+  [auto_compare.pdf](figures/auto_compare.pdf)
+
+### 4.5 Software Test Generation
+
+* **LLM vs Agent Comparison:** ![TEST-Compare Figure](figures/test_compare.png)
+  [test_compare.pdf](figures/test_compare.pdf)
+
+### 4.6 Software Security & Maintenance
+
+* **LLM vs Agent Comparison:** ![MAIN-Compare Figure](figures/main_compare.png)
+  [main_compare.pdf](figures/main_compare.pdf)
 ---
 
 ## 3  License

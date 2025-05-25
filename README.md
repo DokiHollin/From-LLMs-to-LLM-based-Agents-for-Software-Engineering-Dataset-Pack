@@ -40,7 +40,8 @@ This repository contains table/image that accompany our survey on the evolution 
 ## 4  Discussion Figures
 
 ### 4.1 DISTRIBUTION OF BENCHMARKS
-* **Benchmark Usage Frequency:** ![Benchmark Figure](figures/bench_freq.pdf)
+* **Benchmark Usage Frequency:**
+[bench_freq.pdf](https://github.com/user-attachments/files/20430206/bench_freq.pdf)
 
 ---
 

@@ -11,8 +11,6 @@ This repository contains table/image that accompany our survey on the evolution 
 
 ## 3  Sub‑topic Artefacts
 
-Below are **thumbnail previews** of each figure followed by links to their associated tables.  Click a thumbnail for full resolution.
-
 ### 3.1 Requirement Engineering & Documentation
 
 * **Benchmark table:** · ![REQ-Eng Metrics Table](tables/req_bench.png)
@@ -36,6 +34,13 @@ Below are **thumbnail previews** of each figure followed by links to their assoc
 ### 3.6 Software Security & Maintenance
 
 * **Benchmark table:** ![MAIN Metrics Table](tables/main_bench.png)
+
+---
+
+## 4  Discussion Figures
+
+### 4.1 DISTRIBUTION OF BENCHMARKS
+* **Benchmark Usage Frequency:** ![Benchmark Figure](figures/bench_freq.pdf)
 
 ---
 
